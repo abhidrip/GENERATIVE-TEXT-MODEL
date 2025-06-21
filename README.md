@@ -1,4 +1,16 @@
 # GENERATIVE-TEXT-MODEL
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: Abhideep Sahni
+
+$INTERN ID *: CT04DF1288
+
+*DOMAIN *: Artificial Intelligence
+
+*DURATION *: 4 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
+
 This repository contains a simple, ready-to-run Jupyter Notebook demonstrating how to build a generative text model using GPT-2 Medium with the Hugging Face Transformers library.
 It allows you to generate coherent, topic-specific paragraphs based on user prompts — perfect for experimenting with modern NLP and text generation!
 
